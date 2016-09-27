@@ -2,7 +2,6 @@
 The official desktop app of Dissect
 
 # structure
-```
 |-- Desktop
 |-- .DS_Store
 |-- README.md
@@ -162,4 +161,4 @@ The official desktop app of Dissect
 |-- tabs.scss
 |-- utilities.scss
 |-- variables.scss
-```
+
